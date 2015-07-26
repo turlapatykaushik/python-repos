@@ -1,4 +1,4 @@
-// Access Internet Data using python
+// Access Internet Data from a url using python
 
 import urllib2
 def main():
