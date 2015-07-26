@@ -1,4 +1,4 @@
-// Calendar
+// A Calendar using python
 import calendar
 cal = calendar.TextCalendar(calendar.SUNDAY)
 result = cal.formatmonth(2015,1)
