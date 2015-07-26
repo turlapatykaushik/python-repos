@@ -1,3 +1,4 @@
+// A script to search the system for a file . Just replace the filename variable in the code with the actual filename of what you want to search
 import os
 from os.path import join
 
